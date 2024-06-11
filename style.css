@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+}
+
+#myCanvas {
+  border: 2px solid black;
+}
+
+#cloud-img {
+  display: none;
+}
+
+#sun-img {
+  display: none;
+}
+
+#moon {
+  display: none;
+}
+
+#dog {
+  display: none;
+}
+
+#horse {
+  display: none;
+}
